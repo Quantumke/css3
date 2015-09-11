@@ -13,5 +13,22 @@ body{
 }
 
 .shapes{
-	height: 50px;
+	height: 20px;
+	margin: 10px;
+}
+.triangle{
+height: 10px;
+margin: 10px;
+}
+.square{
+	height: 10px;
+margin: 10px;
+}
+.rect{
+height: 10px;
+margin: 10px;
+}
+.circle{
+height: 10px;
+margin: 10px;
 }
