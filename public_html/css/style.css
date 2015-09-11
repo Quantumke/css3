@@ -1,3 +1,6 @@
+body{
+	background: grey;
+}
 #bg {
 
 	background: grey;
@@ -6,4 +9,9 @@
 }
 .title{
 	text-align: center;
+
+}
+
+.shapes{
+	height: 50px;
 }
