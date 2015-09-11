@@ -15,25 +15,38 @@ body{
 .shapes{
 	height: 20px;
 	margin: 3px;
-	width: 100px;
+	width: 100%;
 }
 .triangle{
+	margin-left: 200px;
+	position: absolute;
 height: 10px;
 margin: 3px;
 width: 100px;
+background:green;
 }
 .square{
+	position: absolute;
 	height: 10px;
 margin: 3px;
 width: 100px;
+left: 337px;
+background: blue;
+
 }
 .rect{
+	position: absolute;
 height: 10px;
 margin: 3px;
 width: 100px;
+background: yellow;
+left: 675px;
 }
 .circle{
+	position: absolute;
 height: 10px;
 margin: 3px;
 width: 100px;
+background: red;
+left: 1150px;
 }
