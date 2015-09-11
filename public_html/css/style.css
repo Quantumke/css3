@@ -14,21 +14,26 @@ body{
 
 .shapes{
 	height: 20px;
-	margin: 10px;
+	margin: 3px;
+	width: 100px;
 }
 .triangle{
 height: 10px;
-margin: 10px;
+margin: 3px;
+width: 100px;
 }
 .square{
 	height: 10px;
-margin: 10px;
+margin: 3px;
+width: 100px;
 }
 .rect{
 height: 10px;
-margin: 10px;
+margin: 3px;
+width: 100px;
 }
 .circle{
 height: 10px;
-margin: 10px;
+margin: 3px;
+width: 100px;
 }
