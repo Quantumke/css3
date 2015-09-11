@@ -20,33 +20,65 @@ body{
 .triangle{
 	margin-left: 200px;
 	position: absolute;
-height: 100px;
+height: 200px;
 margin: 3px;
-width: 100px;
+width: 200px;
 background:green;
 }
 .square{
 	position: absolute;
-	height: 100px;
-margin: 3px;
-width: 100px;
+	height: 200px;
+padding-top: 3px;
+padding-left:3px;
+padding-right;3px;
+padding-bottom:3px;
+width: 200px;
 left: 337px;
 background: blue;
 
 }
 .rect{
 	position: absolute;
-height: 100px;
+height: 200px;
 margin: 3px;
-width: 100px;
+width: 200px;
 background: yellow;
 left: 675px;
 }
 .circle{
 	position: absolute;
-height: 100px;
+height: 200px;
 margin: 3px;
-width: 100px;
+width: 200px;
 background: red;
 left: 1150px;
+}
+.the-square{
+
+width: 100px; 
+height: 100px;
+ background: red;
+ float: center;
+}
+
+.the-rect{
+
+width: 150px; 
+height: 100px;
+ background: black;
+ float: center;
+}
+.the-circle{
+	width: 100px; 
+	height: 100px; 
+	background: blue; 
+	-moz-border-radius: 
+	50px; -webkit-border-radius: 50px; border-radius: 50px;
+}
+.the-triangle{
+	width: 0; 
+	height: 0;
+	 border-left: 50px solid transparent;
+	  border-right: 50px solid transparent; 
+	  border-bottom: 100px solid red;
 }
